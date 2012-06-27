@@ -4,7 +4,7 @@ require "rvideo/version"
 
 Gem::Specification.new do |s|
   s.name        = "rvideo"
-  s.version     = Rvideo::VERSION
+  s.version     = Rvideo::VERSION::STRING
   s.authors     = ["designtist"]
   s.email       = ["armin@designtist.org"]
   s.homepage    = ""
